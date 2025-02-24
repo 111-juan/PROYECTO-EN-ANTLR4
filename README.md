@@ -4,7 +4,7 @@ Este proyecto es una calculadora basada en ANTLR4 y Java que permite evaluar exp
 
 ## 📂 Estructura del Proyecto
 ```
-📂 ProyectoCalculadora/
+📂 Proyecto_lenguajes/
 │── 📄 Expresiones.g4       # Archivo de gramática de ANTLR
 │── 📄 ExpresionesLexer.java # Lexer generado por ANTLR
 │── 📄 ExpresionesParser.java # Parser generado por ANTLR
